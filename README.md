@@ -1,1 +1,0 @@
-# sparfy-open-src
